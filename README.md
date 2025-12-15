@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<h1 align="center"  style="color:white;">Some Stats!</h1>
+
+<p align="center" >
+  <a target="_blank" href="https://github.com/ash2ubh/stats">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash2ubh&langs_count=100&layout=compact&theme=dark&custom_title=Most%20Used%20Languages&card_width=444&count_private=true" />
+  </a>
+</p>
