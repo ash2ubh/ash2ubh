@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ash2ubh/ash2ubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
